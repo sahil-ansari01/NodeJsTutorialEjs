@@ -1,9 +1,9 @@
-const express = require('express');
+// const express = require('express');
 
-const router = express.Router();
+// const router = express.Router();
 
-const successController = require('../controllers/success')
+// const successController = require('../controllers/success')
 
-router.get('/success', successController.getSuccess)
+// router.get('/success', successController.getSuccess)
 
-module.exports = router;
+// module.exports = router;
